@@ -30,9 +30,6 @@ public class Main {
                     Integer.toString(id++)
             );
         }
-        matcher.appendTail(builder);
-        System.out.println("Final result:\n" +
-                builder);
     }
 }
 
